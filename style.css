@@ -18,6 +18,7 @@ body {
   position: absolute;
   left: 0px;
   top: 0px;
+  transform: translate(-50%, -50%);
 }
 
 .shadowCursor {
@@ -27,6 +28,7 @@ body {
   border-radius: 100%;
   filter: blur(35px);
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 0px;
+  top: 0px;
+  transform: translate(-50%, -50%);
 }
